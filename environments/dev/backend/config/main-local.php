@@ -20,6 +20,11 @@ if (!YII_ENV_TEST) {
     $config['modules']['gii'] = [
         'class' => 'yii\gii\Module',
     ];
+
+    //miration files generate tools
+    $config['modules']['migrate'] = [
+        'class' => 'c006\utility\migration\Module',
+    ];
 }
 
 return $config;
