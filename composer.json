@@ -19,13 +19,12 @@
         "yiisoft/yii2-bootstrap": "*",
         "yiisoft/yii2-swiftmailer": "*",
         "weison-tech/yii2-file-kit": "*",
-        "weison-tech/yii2-imperavi-redactor": "dev-master@dev",
+        "weison-tech/yii2-imperavi-redactor": "dev-master@dev"
     },
     "require-dev": {
         "yiisoft/yii2-codeception": "*",
         "yiisoft/yii2-debug": "*",
         "yiisoft/yii2-gii": "*",
-        "weison-tech/yii2-migration-utility": "dev-master",
         "yiisoft/yii2-faker": "*"
     },
     "config": {
